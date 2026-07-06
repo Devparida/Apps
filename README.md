@@ -3,7 +3,7 @@ A collection of MVP applications built to validate ideas quickly, experiment wit
 
 1. Ideator
 
-[![Live Demo](https://ideator123.lovable.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://ideator123.lovable.app)
 
 
 > **AI-powered idea validation tool for startup founders.**  

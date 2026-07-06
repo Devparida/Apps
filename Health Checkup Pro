@@ -1,0 +1,38 @@
+2. Health Checkup Pro
+
+# Health Checkup Genius
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square)](https://health-checkup-genius.lovable.app)
+[![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-8B5CF6?style=flat-square)](https://lovable.dev)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square)](https://vercel.com)
+[![n8n Automation](https://img.shields.io/badge/Automation-n8n-FF6D5A?style=flat-square)](https://n8n.io)
+
+&gt; **Modern health checkup enquiry platform with zero-touch lead automation.**  
+&gt; Patients book diagnostic tests online. Clinics receive structured enquiries and instant notifications via n8n — no manual data entry.
+
+---
+
+## 🎯 The Problem
+
+Booking a health checkup is surprisingly hard:
+
+- **For patients:** Calling clinics, explaining symptoms repeatedly, uncertain about which test to choose
+- **For clinics:** Scattered enquiries across phone/email/WhatsApp, manual data entry, missed follow-ups
+
+**Health Checkup Genius bridges this gap** — patients self-serve online, clinics get structured data in their workflow tools automatically.
+
+---
+
+## ✨ Key Features
+
+| Feature | What It Does | PM Thinking Behind It |
+|---------|-------------|----------------------|
+| **Smart Test Selection** | Dropdown with 9 test types (Full Body, Blood Test, Diabetes, Thyroid, Heart, Liver, Kidney, Vitamin, Custom) | Reduces "which test do I need?" support calls |
+| **Multi-Step Form** | 3-step flow: Personal Info → Test Details → Review & Submit | Reduces cognitive load; progress indicator increases completion rate |
+| **Slot Preference** | Date picker + time slot selection (Morning/Evening) | Gives patients control, helps clinics plan capacity |
+| **Auto-Generated Enquiry ID** | Unique ID format `HC-YYYYMMDD-XXX` | Traceability for both patient and clinic |
+| **Instant Email Confirmation** | Patient receives acknowledgement within seconds of submission | Builds trust, reduces anxiety, sets expectations |
+| **n8n Lead Automation** | Form data flows into Gmail + structured field mapping + admin CC | Zero manual data entry; clinic staff work in tools they already use |
+
+
+## 🏗 Architecture

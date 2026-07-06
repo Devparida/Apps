@@ -1,7 +1,7 @@
 # Apps
 A collection of MVP applications built to validate ideas quickly, experiment with new technologies and showcase end to end product development.
 
-1. Ideator
+1. **Ideator**
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://ideator123.lovable.app)
 
